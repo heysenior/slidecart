@@ -1,0 +1,2 @@
+# slidecart
+Slide Cart Shopify
